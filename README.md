@@ -1,36 +1,54 @@
 ### Hey, I'm Omar.
 
-I didn't grow up with access to computer science. That career in Mexico was out of reach for someone in my surroundings. So I did what was available: I went deep into manufacturing and metallurgical operations for 11 years, running my family's business. I learned to manage capacity, cut waste, read a P&L like a pulse, and keep a small company alive when the margins got tight.
+I didn't grow up with computer science. In Mexico, that career was out of reach for someone from my surroundings. So I did what was available: I spent **11 years on the shop floor** of my family's metallurgical manufacturing business — quoting jobs for **Bosch, Wabtec, and Federal Mogul**, reading P&Ls like a pulse, and keeping a small company alive when the margins got thin.
 
-That was a gift I didn't recognize at the time.
+I didn't recognize it at the time. Those eleven years were the most valuable training I will ever get.
 
-I paid the toll. Burned out, overweight, running a company that was consuming me. At some point I decided to take my life back. I lost 80 lbs, ran the Boston Marathon, finished Ironman 70.3, and got accepted to MIT Sloan, my dream school. That fundamentally changed everything.
+---
 
-Once I landed in Cambridge, I went all in on AI. Not because I wanted to become a computer scientist, but because I fell in love with what this world makes possible. I have been showing up every weekend at hackathons with MIT Media Lab, SundAI Club, Red Hat Open Accelerator, E14 Fund, and MIT AI Studio. Self-learning, building, breaking things, learning again. I refuse to be an observer.
+I paid the toll. Burnout. 80 lbs overweight. Running a company that was consuming me.
 
-Those 11 years in manufacturing taught me something most people in tech overlook: every small and medium business, regardless of vertical, can operate lean like a factory. There is a massive opportunity to bring agentic infrastructure to the millions of businesses that have never had access to it.
+So I took my life back. Lost 80 lbs. Ran the Boston Marathon. Finished Ironman 70.3. Got into MIT Sloan — my dream school. That changed everything.
 
-**That is why I am building YU.**
+At MIT, I went all-in on AI. Not because I wanted to become a computer scientist, but because I fell in love with what this world makes possible. Every weekend: MIT Media Lab, SundAI Club, Red Hat Open Accelerator, E14 Fund, MIT AI Studio. Self-learning, building, breaking, learning again. I refuse to be an observer.
 
-YU is the operating system for employee wellbeing at small businesses. AI burnout detection that runs locally on company infrastructure, so employee privacy is architectural, not aspirational. Built for people, not employers.
+---
 
-At MIT I learned the importance of agentic infrastructure, security guardrails, and the challenges ahead. I want to be prepared, not surprised.
+Eleven years on the shop floor taught me what most people in tech can't see:
 
-I am preparing my road to Y Combinator. Whatever happens, I am building YU. I have learned that everybody has their own timezone and things make sense at their own pace. The only thing under my control is showing up, and I will do that without exceptions.
+> **Every small business in America operates like a factory. They just don't have factory-grade AI.**
+
+There are **21,000 machine shops** in the United States. They cut the parts that go into Boeing aircraft, Caterpillar engines, GE turbines, Wabtec locomotives. They are the industrial backbone of this country. And every day they lose Fortune 500 contracts because they can't quote fast enough, can't prove compliance fast enough, can't make themselves legible to a procurement org running on 20-year-old software.
+
+I lived that pain for 11 years. Now I'm building the AI that closes the gap.
+
+---
+
+### **That is why I am building [AgentsArmy.ai](https://agentsarmy.ai).**
+
+**AI agents that turn 21,000 US machine shops into Fortune 500 suppliers.**
+
+Foreman is the first hireable agent. He reads every drawing your customers send, flags bad GD&T before it wastes your Tuesday, and drafts the quote in your voice. $200/month. Eleven more agents queued behind him.
+
+I am the only person in this country who has lived all three sides of this problem: the shop floor in Monterrey, the procurement language at Bosch and Wabtec, and the AI labs at MIT. **Founder-market fit isn't a slogan. It's eleven years of scar tissue.**
+
+---
+
+I'm preparing my road to Y Combinator. Whatever happens, I am building this. Everyone has their own timezone — the only thing under my control is showing up, and I will do that without exceptions.
 
 **Let's go.**
 
 ---
 
-**Currently:** MIT Sloan Fellows MBA '26 | Founder, YU | Boston, MA
+**Currently:** MIT Sloan Fellows MBA '26 · Founder, AgentsArmy · Boston, MA
 
-**Previously:** CRO, Grupo SMM | 11 years in metallurgical manufacturing | Mexico
+**Previously:** CRO, Grupo SMM · 11 years in metallurgical manufacturing · Monterrey, Mexico
 
-**Building with:** `IBM Granite 3.3` `RamaLama` `Podman` `FastAPI` `React` `FastMCP`
+**Building with:** `Claude Sonnet 4.6` `Next.js 15` `Inngest` `Supabase` `Stripe Connect` `pgvector` `Anthropic SDK`
 
-**Active at:** MIT Sandbox | MIT 15.378 | MIT AI Studio MAS.664 | Red Hat Open Accelerator | E14 Fund | SundAI Club | I-Corps | VMS
+**Active at:** MIT Sandbox · MIT 15.378 · MIT AI Studio MAS.664 · Red Hat Open Accelerator · E14 Fund · SundAI Club · I-Corps · VMS
 
-**Life:** Boston Marathon | Ironman 70.3 | CrossFit | Cold plunge | Sober | All in
+**Life:** Boston Marathon · Ironman 70.3 · CrossFit · Cold plunge · Sober · All in
 
 ---
 
@@ -38,9 +56,10 @@ I am preparing my road to Y Combinator. Whatever happens, I am building YU. I ha
 
 | Project | What it does |
 |---|---|
-| **[YU Shield](https://github.com/odominguez7/podman-hackathon)** | AI burnout detection that runs entirely on your machine. 30-second daily check-in, IBM Granite 3.3 via Podman. Zero cloud. Zero data leakage. |
+| **[AgentsArmy](https://agentsarmy.ai)** | AI agents that turn 21,000 US machine shops into Fortune 500 suppliers. Foreman reads every drawing, flags bad tolerances, drafts the quote. $200/mo. The army grows from there. |
+| **[YU Shield](https://github.com/odominguez7/podman-hackathon)** | On-prem AI burnout detection. 30-second daily check-in, IBM Granite 3.3 via Podman. Zero cloud, zero data leakage. Privacy is architectural. |
 | **[Jerome7](https://github.com/odominguez7/Jerome7)** | 7-minute daily reset for builders. AI breathwork, meditation, reflection. Same session for every builder on Earth. [jerome7.com](https://jerome7.com) |
-| **[CourtSync](https://github.com/odominguez7/Courtsync-Pickleboard)** | AI pickleball match coordinator via WhatsApp. One text finds you a game. Gemini 2.0 Flash + Firestore + Twilio. |
+| **[CourtSync](https://github.com/odominguez7/Courtsync-Pickleboard)** | AI pickleball match coordinator via WhatsApp. One text finds you a game. |
 | **[meetMIT](https://github.com/odominguez7/meetMIT)** | AI campus connections for MIT/Harvard. Big Five personality matching turns free moments into real in-person meets. |
 
 ---
