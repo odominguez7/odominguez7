@@ -1,6 +1,6 @@
 ### Hey, I'm Omar.
 
-I didn't grow up with computer science. In Mexico, that career was out of reach for someone from my surroundings. So I did what was available: I spent **11 years on the shop floor** of my family's metallurgical manufacturing business — quoting jobs for **Bosch, Wabtec, and Federal Mogul**, reading P&Ls like a pulse, and keeping a small company alive when the margins got thin.
+I didn't grow up with computer science. In Mexico, that career was out of reach for someone from my surroundings. So I did what was available: I spent **11 years on the shop floor** of my family's metallurgical manufacturing business: quoting jobs for top TIER 1's  **Bosch, Wabtec, and Federal Mogul**, reading P&Ls like a pulse, and keeping a small company alive when the margins got thin.
 
 I didn't recognize it at the time. Those eleven years were the most valuable training I will ever get.
 
